@@ -49,6 +49,10 @@ python app.py
 
 http://127.0.0.1:5000
 
+## Live Demo
+
+https://salary-prediction-app-lpl6.onrender.com/
+
 ## Output
 
 The application predicts salary based on the Grade 10 percentage entered by the user.
